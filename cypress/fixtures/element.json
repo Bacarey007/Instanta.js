@@ -5,5 +5,5 @@
   "usernameField": "[id='username']",
   "passwordField": "[id='password']",
   "loginButton": "[id='submitBtn']"
-  
+
 }
