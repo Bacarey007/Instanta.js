@@ -1,0 +1,23 @@
+{
+  "name": "cypress10",
+  "version": "1.0.0",
+  "description": "Instanta Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bacarey007/Test-Value.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bacarey007/Test-Value/issues"
+  },
+  "homepage": "https://github.com/Bacarey007/Test-Value#readme",
+  "devDependencies": {
+    "cypress": "^12.17.1",
+    "cypress-fill-command": "^1.0.2"
+  }
+}
